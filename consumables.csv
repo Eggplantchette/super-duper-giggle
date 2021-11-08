@@ -1,0 +1,42 @@
+consumable_type,consumable_name,item_id,spell_name,spell_id
+elixir battle,Adept's Elixir,28103,Adept's Elixir,33721
+elixir battle,Elixir of Demonslaying,9224,Elixir of Demonslaying,11406
+elixir battle,Elixir of Healing Power,22825,Healing Power,28491
+elixir battle,Elixir of Major Agility,22831,Major Agility,28497
+elixir battle,Fel Strength Elixir,31679,Fel Strength Elixir,38954
+elixir guardian,Elixir of Draenic Wisdom,32067,Elixir of Draenic Wisdom,39627
+elixir guardian,Elixir of Major Defense,22834,Major Armor,28502
+elixir guardian,Elixir of Major Fortitude,32062,Elixir of Major Fortitude,39625
+elixir guardian,Elixir of Major Mageblood,22840,Greater Mana Regeneration,28509
+elixir guardian,Gift of Arthas,9088,Gift of Arthas,11371
+flask,Flask of Blinding Light,22861,Flask of Blinding Light,28521
+flask,Flask of Fortification,22851,Flask of Fortification,28518
+flask,Flask of Mighty Restoration,22853,Flask of Mighty Restoration,28519
+flask,Flask of Pure Death,22866,Flask of Pure Death,28540
+flask,Flask of Relentless Assault,22854,Flask of Relentless Assault,28520
+food,Blackened Basilisk,27657,Well Fed,33263
+food,Blackened Sporefish,27663,Well Fed,33265
+food,Crunchy Serpent,31673,Well Fed,33263
+food,Golden Fish Sticks,27666,Well Fed,33268
+food,Grilled Mudfish,27664,Well Fed,33261
+food,Kibler's Bits,33874,Well Fed,43771
+food,Poached Bluefish,27665,Well Fed,33263
+food,Roasted Clefthoof,27658,Well Fed,33256
+food,Spicy Crawded,27667,Well Fed,33257
+food,Warp Burger,27659,Well Fed,33261
+other,Dark Rune,20520,Dark Rune,27869
+other,Demonic Rune,12662,Demonic Rune,16666
+other,Nightmare Seed,22797,Nightmare Seed,28726
+potion,Destruction Potion,22839,Destruction,28508
+potion,Fel Mana Potion,31677,Fel Mana,38929
+potion,Haste Potion,22838,Haste,28507
+potion,Insane Strength Potion,22828,Insane Strength Potion,28494
+potion,Ironshield Potion,22849,Ironshield,28515
+potion,Super Mana Potion,22832,Restore Mana,28499
+scroll,Scroll of Agility V,27498,Agility,33077
+scroll,Scroll of Protection V,27500,Armor,33079
+scroll,Scroll of Strength V,27503,Strength,33082
+weapon,Adamantite Sharpening Stone,23529,Sharpen Blade,29453
+weapon,Adamantite Weightstone,28421,Weight Weapon,34340
+weapon,Brilliant Mana Oil,20748,Brilliant Mana Oil,25123
+weapon,Brilliant Wizard Oil,20749,Brilliant Wizard Oil,25122
